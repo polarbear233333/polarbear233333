@@ -2,17 +2,13 @@
 
 ### AI Undergraduate @ SJTU | LLM Agents · RAG · NLP · Trustworthy AI
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=polarbear233333&label=Profile views&color=0e75b6&style=flat" alt="polarbear233333" /> </p>
 
-- 🔭 I'm currently working on **LLM Agent evaluation, RAG-based course assistant systems, and AI-related course projects
 
-**
+- 🔭 I'm currently working on **LLM Agent evaluation, RAG-based course assistant systems, and AI-related course projects**
 
-- 🌱 I'm currently learning **Large Language Models, Agent evaluation, PyTorch, Unity, and research methodology
-**
+- 🌱 I'm currently learning **Large Language Models, Agent evaluation, PyTorch, Unity, and research methodology**
 
-- 👯 I'm looking to collaborate on **LLM applications,  AI agents, open-source AI tools, and research-oriented projects
-**
+- 👯 I'm looking to collaborate on **LLM applications,  AI agents, open-source AI tools, and research-oriented projects**
 
 - 🤝 I'm looking for help with **building stronger research skills**
 
